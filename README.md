@@ -14,7 +14,7 @@ Since I might take some time to port something to this device, therefore, it is 
 | Name | Picture | How to exit |
 | -----|---------|---------------------|
 | CCDoom | ![Alt text](imgs/ccdoom.jpg) | Press START |
-| Wolf3D | ![Alt text](imgs/wolf3d.jpg) | Press MENU |
+| Wolf3D | ![Alt text](imgs/wolf3d.jpg) | Press SELECT |
 
 ## Website
 -  https://steward-fu.github.io/website/index.htm
