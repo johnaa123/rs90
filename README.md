@@ -23,6 +23,7 @@ Since I might take some time to port something to this device, therefore, it is 
 | [wolf3D](https://github.com/steward-fu/rs90/releases/download/v20190509_5/wolf3d.opk) | ![Alt text](imgs/wolf3d.jpg) | Press SELECT |
 | [hheretic](https://github.com/steward-fu/rs90/releases/download/v20190510_2/hheretic.opk) | ![Alt text](imgs/hheretic.jpg) | Press SELECT |
 | [hhexen](https://github.com/steward-fu/rs90/releases/download/v20190510_5/hhexen.opk) | ![Alt text](imgs/hhexen.jpg) | Press SELECT |
+| [pang](https://github.com/steward-fu/rs90/releases/download/v20190510_7/pang.opk) | ![Alt text](imgs/pang.jpg) | Press SELECT |
   
 ## Kernel
 -  [Enable SWAP feature](https://github.com/steward-fu/rs90/releases/download/v20190510_1/uzImage.bin)  
