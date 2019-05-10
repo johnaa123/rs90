@@ -13,7 +13,7 @@ Since I might take some time to port something to this device, therefore, it is 
 ## Emulators
 | Name | Picture | How to exit |
 | -----|---------|---------------------|
-| ccdoom | ![Alt text](imgs/ccdoom.jpg) | Press START<br> Try to delete .chocolate-doom in HOME folder if button don't work |
+| ccdoom | ![Alt text](imgs/ccdoom.jpg)<br>Try to delete .chocolate-doom in HOME folder if button doesn't work | Press START |
 | wolf3D | ![Alt text](imgs/wolf3d.jpg) | Press SELECT |
 | hheretic | ![Alt text](imgs/hheretic.jpg) | Press SELECT |
 | hhexen | ![Alt text](imgs/hhexen.jpg) | Press SELECT |
