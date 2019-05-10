@@ -15,8 +15,8 @@ Since I might take some time to port something to this device, therefore, it is 
 | -----|---------|---------------------|
 | ccdoom | ![Alt text](imgs/ccdoom.jpg) | Press START<br> Try to delete .chocolate-doom in HOME folder if button don't work |
 | wolf3D | ![Alt text](imgs/wolf3d.jpg) | Press SELECT |
-| hheretic | ![Alt text](imgs/wolf3d.jpg) | Press SELECT |
-| hhexen | ![Alt text](imgs/wolf3d.jpg) | Press SELECT |
+| hheretic | ![Alt text](imgs/hheretic.jpg) | Press SELECT |
+| hhexen | ![Alt text](imgs/hhexen.jpg) | Press SELECT |
 
 ## Website
 -  https://steward-fu.github.io/website/index.htm
