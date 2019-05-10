@@ -13,8 +13,8 @@ Since I might take some time to port something to this device, therefore, it is 
 ## Applications
 | Name | Picture | How to exit |
 | -----|---------|---------------------|
-| [SWAP](https://github.com/steward-fu/rs90/releases/download/v20190510_1/swap.opk) | ![Alt text](imgs/swap.jpg) | Wait for 10s |
-| [Keycode](https://github.com/steward-fu/rs90/releases/download/v20190510_6/keycode.opk) | ![Alt text](imgs/keycode.jpg) | Press START |
+| [swap](https://github.com/steward-fu/rs90/releases/download/v20190510_1/swap.opk) | ![Alt text](imgs/swap.jpg) | Wait for 10s |
+| [keycode](https://github.com/steward-fu/rs90/releases/download/v20190510_6/keycode.opk) | ![Alt text](imgs/keycode.jpg) | Press START |
   
 ## Emulators
 | Name | Picture | How to exit |
@@ -25,7 +25,7 @@ Since I might take some time to port something to this device, therefore, it is 
 | [hhexen](https://github.com/steward-fu/rs90/releases/download/v20190510_5/hhexen.opk) | ![Alt text](imgs/hhexen.jpg) | Press SELECT |
   
 ## Kernel
--  [Support SWAP feature](https://github.com/steward-fu/rs90/releases/download/v20190510_1/uzImage.bin)  
+-  [Enable SWAP feature](https://github.com/steward-fu/rs90/releases/download/v20190510_1/uzImage.bin)  
   
 ## Website
 -  https://steward-fu.github.io/website/index.htm
