@@ -28,6 +28,11 @@ Since I might take some time to port something to this device, therefore, it is 
 ## Kernel
 -  [Enable SWAP feature](https://github.com/steward-fu/rs90/releases/download/v20190510_1/uzImage.bin)  
   
+## System
+-  [Add brightness control](https://github.com/steward-fu/rs90/releases/download/v20190512_1/upgrade.opk)  
+   -  Bright+ (START + UP)  
+   -  Bright- (START + DOWN)  
+  
 ## Website
 -  https://steward-fu.github.io/website/index.htm
 
