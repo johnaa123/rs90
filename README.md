@@ -13,7 +13,7 @@ Since I might take some time to port something to this device, therefore, it is 
 ## Applications
 | Name | Picture | How to exit |
 | -----|---------|---------------------|
-| [swap](https://github.com/steward-fu/rs90/releases/download/v20190510_1/swap.opk) | ![Alt text](imgs/swap.jpg) | Wait for 10s |
+| [swap](https://github.com/steward-fu/rs90/releases/download/v20190512_2/swap.opk) | ![Alt text](imgs/swap.jpg) | Wait for 10s |
 | [keycode](https://github.com/steward-fu/rs90/releases/download/v20190510_6/keycode.opk) | ![Alt text](imgs/keycode.jpg) | Press START |
 | [upgrade](https://github.com/steward-fu/rs90/releases/download/v20190512_1/upgrade.opk) | ![Alt text](imgs/upgrade.jpg) | Wait for complete |
   
