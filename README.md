@@ -20,7 +20,7 @@ Since I might take some time to port something to this device, therefore, it is 
 ## Emulators
 | Name | Picture | How to exit |
 | -----|---------|---------------------|
-| [ccdoom](https://github.com/steward-fu/rs90/releases/download/v20190510_4/ccdoom.opk) | ![Alt text](imgs/ccdoom.jpg)<br>Delete .chocolate-doom in HOME if not work | Press START |
+| [chocolate doom](https://github.com/steward-fu/rs90/releases/download/v20190510_4/ccdoom.opk) | ![Alt text](imgs/ccdoom.jpg)<br>Delete .chocolate-doom in HOME if not work | Press START |
 | [wolf3D](https://github.com/steward-fu/rs90/releases/download/v20190509_5/wolf3d.opk) | ![Alt text](imgs/wolf3d.jpg) | Press SELECT |
 | [hheretic](https://github.com/steward-fu/rs90/releases/download/v20190510_2/hheretic.opk) | ![Alt text](imgs/hheretic.jpg) | Press SELECT |
 | [hhexen](https://github.com/steward-fu/rs90/releases/download/v20190510_5/hhexen.opk) | ![Alt text](imgs/hhexen.jpg) | Press SELECT |
