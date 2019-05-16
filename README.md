@@ -15,9 +15,14 @@ Since I might take some time to port something to this device, therefore, it is 
 | -----|---------|---------------------|
 | [swap](https://github.com/steward-fu/rs90/releases/download/v20190512_2/swap.opk) | ![Alt text](imgs/swap.jpg) | Wait for 10s |
 | [keycode](https://github.com/steward-fu/rs90/releases/download/v20190510_6/keycode.opk) | ![Alt text](imgs/keycode.jpg) | Press START |
-| [upgrade](https://github.com/steward-fu/rs90/releases/download/v20190512_1/upgrade.opk) | ![Alt text](imgs/upgrade.jpg) | Wait for complete |
+| [upgrade](https://github.com/steward-fu/rs90/releases/download/v20190514_1/upgrade.opk) | ![Alt text](imgs/upgrade.jpg) | Wait for complete |
   
 ## Emulators
+| Name | Picture | How to exit |
+| -----|---------|---------------------|
+| [pcsx4all](https://github.com/steward-fu/rs90/releases/download/v20190516_1/pcsx4all.opk) | ![Alt text](imgs/pcsx.jpg) | Press SELECT and then START |
+  
+## Games
 | Name | Picture | How to exit |
 | -----|---------|---------------------|
 | [chocolate doom](https://github.com/steward-fu/rs90/releases/download/v20190510_4/ccdoom.opk) | ![Alt text](imgs/ccdoom.jpg)<br>Delete .chocolate-doom in HOME if not work | Press START |
@@ -30,7 +35,7 @@ Since I might take some time to port something to this device, therefore, it is 
 -  [Enable SWAP feature](https://github.com/steward-fu/rs90/releases/download/v20190510_1/uzImage.bin)  
   
 ## System
--  [Add brightness control](https://github.com/steward-fu/rs90/releases/download/v20190512_1/upgrade.opk)  
+-  [Add brightness control](https://github.com/steward-fu/rs90/releases/download/v20190514_1/upgrade.opk)  
    -  Bright+ (START + UP)  
    -  Bright- (START + DOWN)  
   
