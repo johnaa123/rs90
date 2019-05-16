@@ -20,7 +20,7 @@ Since I might take some time to port something to this device, therefore, it is 
 ## Emulators
 | Name | Picture | How to exit |
 | -----|---------|---------------------|
-| [pcsx4all](https://github.com/steward-fu/rs90/releases/download/v20190516_1/pcsx4all.opk) | ![Alt text](imgs/pcsx.jpg) | Press SELECT and then START |
+| [pcsx4all](https://github.com/steward-fu/rs90/releases/download/v20190516_1/pcsx4all.opk) | ![Alt text](imgs/pcsx4all.jpg) | Press SELECT and then START |
   
 ## Games
 | Name | Picture | How to exit |
