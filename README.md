@@ -13,9 +13,10 @@ Since I might take some time to port something to this device, therefore, it is 
 ## Applications
 | Name | Picture | How to exit |
 | -----|---------|---------------------|
-| [swap](https://github.com/steward-fu/rs90/releases/download/v20190512_2/swap.opk) | ![Alt text](imgs/swap.jpg) | Wait for 10s |
-| [keycode](https://github.com/steward-fu/rs90/releases/download/v20190510_6/keycode.opk) | ![Alt text](imgs/keycode.jpg) | Press START |
-| [upgrade](https://github.com/steward-fu/rs90/releases/download/v20190514_1/upgrade.opk) | ![Alt text](imgs/upgrade.jpg) | Wait for complete |
+| [swap utility](https://github.com/steward-fu/rs90/releases/download/v20190512_2/swap.opk) | ![Alt text](imgs/swap.jpg) | Wait for 10s |
+| [test keycode](https://github.com/steward-fu/rs90/releases/download/v20190510_6/keycode.opk) | ![Alt text](imgs/keycode.jpg) | Press START |
+| [upgrade rootfs](https://github.com/steward-fu/rs90/releases/download/v20190514_1/upgrade.opk) | ![Alt text](imgs/upgrade.jpg) | Wait for complete |
+| [sdcard speed testing](https://github.com/steward-fu/rs90/releases/download/v20190523_1/speed.opk) | ![Alt text](imgs/speed.jpg) | Wait for complete |
   
 ## Emulators
 | Name | Picture | How to exit |
